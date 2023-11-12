@@ -1,0 +1,43 @@
+.daaa {
+  font-family: "Oswald", sans-serif;
+
+  width: auto;
+  height: 500px;
+  background-color: rgb(119, 119, 119);
+  font-size: large;
+  text-shadow: 2cm;
+}
+
+.sa {
+  scroll-margin-left: 225px;
+  font-family: "Oswald", sans-serif;
+
+  background-color: rgb(119, 119, 119);
+  font-size: large;
+  text-shadow: 100cm;
+}
+
+.main-image {
+  width: 320px;
+  height: 320px;
+}
+
+.divtwo {
+  font-family: "Oswald", sans-serif;
+  font-family: "Passion One", sans-serif;
+  width: auto;
+  height: 960px;
+  background-color: rgb(69, 63, 63);
+}
+
+.videos {
+  width: 350px;
+  height: auto;
+}
+
+.div3 {
+  width: auto;
+  height: 400px;
+  background-color: black;
+  color: white;
+}
